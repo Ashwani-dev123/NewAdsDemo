@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "NewAdsDemo"
-include ':app',':ads'
+//include ':app',':ads'
+include ':ads'
